@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... zell9931@gmail.com or hsk9931@naver.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> I'm looking for a JOB!!!!!! I want to be a professional  programmer!!
+--> I'm studying computer programming(java). I will be a professional  programmer!! Soon it will be done!!!
+
